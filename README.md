@@ -13,3 +13,4 @@ Those image used in this projects are from:
 I decide to use different color and the one I have selected is fro  thsi website:
 Link: https://colorhunt.co/palette/0f044c141e61787a91eeeeee
 IMG:
+![Color Hunt Palet](https://github.com/rudyravelindev/byte-froggy/assets/146050368/d2c88f60-9221-4b0d-9f7e-db11051f760c)
