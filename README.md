@@ -9,4 +9,7 @@ Those image used in this projects are from:
     4-Photo by <a href="https://unsplash.com/@rami_alzayat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rami Al-zayat</a> on <a href="https://unsplash.com/photos/silver-android-smartphone-w33-zg-dNL4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
     5-Photo by <a href="https://unsplash.com/@marvelous?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marvin Meyer</a> on <a href="https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
-#
+# Color from COLORNUNT.CO
+I decide to use different color and the one I have selected is fro  thsi website:
+Link: https://colorhunt.co/palette/0f044c141e61787a91eeeeee
+IMG:
